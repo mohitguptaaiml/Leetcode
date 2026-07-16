@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohitguptaaiml/Leetcode/tree/master/0013-roman-to-integer) |
 | [0829-consecutive-numbers-sum](https://github.com/mohitguptaaiml/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/mohitguptaaiml/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2652-sum-multiples](https://github.com/mohitguptaaiml/Leetcode/tree/master/2652-sum-multiples) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohitguptaaiml/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## String
 |  |
