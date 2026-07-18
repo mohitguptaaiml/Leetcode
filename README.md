@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohitguptaaiml/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohitguptaaiml/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/mohitguptaaiml/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mohitguptaaiml/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2404-most-frequent-even-element](https://github.com/mohitguptaaiml/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohitguptaaiml/Leetcode/tree/master/0013-roman-to-integer) |
 | [0829-consecutive-numbers-sum](https://github.com/mohitguptaaiml/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/mohitguptaaiml/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mohitguptaaiml/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/mohitguptaaiml/Leetcode/tree/master/2652-sum-multiples) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohitguptaaiml/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## String
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2404-most-frequent-even-element](https://github.com/mohitguptaaiml/Leetcode/tree/master/2404-most-frequent-even-element) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mohitguptaaiml/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
