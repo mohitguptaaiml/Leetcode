@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohitguptaaiml/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohitguptaaiml/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/mohitguptaaiml/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2404-most-frequent-even-element](https://github.com/mohitguptaaiml/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohitguptaaiml/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/mohitguptaaiml/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitguptaaiml/Leetcode/tree/master/0013-roman-to-integer) |
+| [2404-most-frequent-even-element](https://github.com/mohitguptaaiml/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/mohitguptaaiml/Leetcode/tree/master/0829-consecutive-numbers-sum) |
+## Counting
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/mohitguptaaiml/Leetcode/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
