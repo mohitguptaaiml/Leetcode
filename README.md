@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mohitguptaaiml/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mohitguptaaiml/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitguptaaiml/Leetcode/tree/master/0013-roman-to-integer) |
+| [0224-basic-calculator](https://github.com/mohitguptaaiml/Leetcode/tree/master/0224-basic-calculator) |
 | [0829-consecutive-numbers-sum](https://github.com/mohitguptaaiml/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/mohitguptaaiml/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitguptaaiml/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mohitguptaaiml/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitguptaaiml/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mohitguptaaiml/Leetcode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/mohitguptaaiml/Leetcode/tree/master/0224-basic-calculator) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/mohitguptaaiml/Leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohitguptaaiml/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitguptaaiml/Leetcode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/mohitguptaaiml/Leetcode/tree/master/0224-basic-calculator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitguptaaiml/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/mohitguptaaiml/Leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
