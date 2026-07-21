@@ -16,8 +16,8 @@ class Solution {
                 int top = st.pop();
                 int secondTop = st.peek();
 
-                st.push(top);                 // restore
-                st.push(top + secondTop);     // new score
+                st.push(top);                
+                st.push(top + secondTop);    
             }
 
             else {
