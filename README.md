@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohitguptaaiml/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohitguptaaiml/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0682-baseball-game](https://github.com/mohitguptaaiml/Leetcode/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/mohitguptaaiml/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/mohitguptaaiml/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohitguptaaiml/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitguptaaiml/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohitguptaaiml/Leetcode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/mohitguptaaiml/Leetcode/tree/master/0224-basic-calculator) |
 | [0682-baseball-game](https://github.com/mohitguptaaiml/Leetcode/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/mohitguptaaiml/Leetcode/tree/master/0946-validate-stack-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/mohitguptaaiml/Leetcode/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/mohitguptaaiml/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitguptaaiml/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
