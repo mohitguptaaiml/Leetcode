@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohitguptaaiml/Leetcode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/mohitguptaaiml/Leetcode/tree/master/0224-basic-calculator) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/mohitguptaaiml/Leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [3174-clear-digits](https://github.com/mohitguptaaiml/Leetcode/tree/master/3174-clear-digits) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohitguptaaiml/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Stack
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mohitguptaaiml/Leetcode/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/mohitguptaaiml/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mohitguptaaiml/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [3174-clear-digits](https://github.com/mohitguptaaiml/Leetcode/tree/master/3174-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mohitguptaaiml/Leetcode/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/mohitguptaaiml/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitguptaaiml/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3174-clear-digits](https://github.com/mohitguptaaiml/Leetcode/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
 | ------- |
