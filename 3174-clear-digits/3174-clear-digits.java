@@ -3,13 +3,11 @@ class Solution {
         Stack<Character> st = new Stack<>();
         for(int i = 0 ; i<s.length(); i++){
             char ch = s.charAt(i);
-
-            if(!Character.isDigit(ch)){
-                st.push(ch);
-            }
-            if(!st.empty() && Character.isDigit(ch)){
-                st.pop();
-            }
+        if (Character.isDigit(ch)) {
+             st.pop();
+        } else {
+             st.push(ch);
+        }
             
         }
 
