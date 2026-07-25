@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mohitguptaaiml/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitguptaaiml/Leetcode/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/mohitguptaaiml/Leetcode/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/mohitguptaaiml/Leetcode/tree/master/0389-find-the-difference) |
 | [2404-most-frequent-even-element](https://github.com/mohitguptaaiml/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohitguptaaiml/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mohitguptaaiml/Leetcode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/mohitguptaaiml/Leetcode/tree/master/0224-basic-calculator) |
+| [0389-find-the-difference](https://github.com/mohitguptaaiml/Leetcode/tree/master/0389-find-the-difference) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/mohitguptaaiml/Leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2000-reverse-prefix-of-word](https://github.com/mohitguptaaiml/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/mohitguptaaiml/Leetcode/tree/master/3174-clear-digits) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/mohitguptaaiml/Leetcode/tree/master/0389-find-the-difference) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/mohitguptaaiml/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Enumeration
 |  |
@@ -100,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mohitguptaaiml/Leetcode/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/mohitguptaaiml/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
