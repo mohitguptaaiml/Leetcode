@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohitguptaaiml/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0229-majority-element-ii](https://github.com/mohitguptaaiml/Leetcode/tree/master/0229-majority-element-ii) |
 | [0682-baseball-game](https://github.com/mohitguptaaiml/Leetcode/tree/master/0682-baseball-game) |
+| [0896-monotonic-array](https://github.com/mohitguptaaiml/Leetcode/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/mohitguptaaiml/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mohitguptaaiml/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/mohitguptaaiml/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
