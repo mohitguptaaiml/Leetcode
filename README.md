@@ -99,10 +99,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/mohitguptaaiml/Leetcode/tree/master/0707-design-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mohitguptaaiml/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mohitguptaaiml/Leetcode/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/mohitguptaaiml/Leetcode/tree/master/0389-find-the-difference) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/mohitguptaaiml/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
