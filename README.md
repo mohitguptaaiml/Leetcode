@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mohitguptaaiml/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/mohitguptaaiml/Leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/mohitguptaaiml/Leetcode/tree/master/0229-majority-element-ii) |
+| [0622-design-circular-queue](https://github.com/mohitguptaaiml/Leetcode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/mohitguptaaiml/Leetcode/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/mohitguptaaiml/Leetcode/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/mohitguptaaiml/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/mohitguptaaiml/Leetcode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/mohitguptaaiml/Leetcode/tree/master/0707-design-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mohitguptaaiml/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Sorting
@@ -115,9 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/mohitguptaaiml/Leetcode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/mohitguptaaiml/Leetcode/tree/master/0707-design-linked-list) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/mohitguptaaiml/Leetcode/tree/master/0179-largest-number) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/mohitguptaaiml/Leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
