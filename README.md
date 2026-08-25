@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mohitguptaaiml/Leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/mohitguptaaiml/Leetcode/tree/master/0229-majority-element-ii) |
 | [0622-design-circular-queue](https://github.com/mohitguptaaiml/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/mohitguptaaiml/Leetcode/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/mohitguptaaiml/Leetcode/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/mohitguptaaiml/Leetcode/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/mohitguptaaiml/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/mohitguptaaiml/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/mohitguptaaiml/Leetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/mohitguptaaiml/Leetcode/tree/master/0707-design-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mohitguptaaiml/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Sorting
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/mohitguptaaiml/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/mohitguptaaiml/Leetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/mohitguptaaiml/Leetcode/tree/master/0707-design-linked-list) |
 ## Greedy
 |  |
@@ -127,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/mohitguptaaiml/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/mohitguptaaiml/Leetcode/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
